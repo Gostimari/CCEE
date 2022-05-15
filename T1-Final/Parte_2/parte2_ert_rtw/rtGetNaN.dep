@@ -1,0 +1,11 @@
+rtGetNaN.o: \
+ C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rtGetNaN.c \
+ C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rtGetNaN.h \
+ C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rtwtypes.h \
+ C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rt_nonfinite.h
+
+C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rtGetNaN.h:
+
+C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rtwtypes.h:
+
+C:/Users/Dylan/ONEDRI~1/UC/4_Ano/2_SEME~1/CCEE/TPC1/Parte_2/parte2_ert_rtw/rt_nonfinite.h:
