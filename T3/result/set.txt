@@ -1,0 +1,2 @@
+RUN 4 é sujeita a perturbaçoes constantes
+RUN 5 é plano inclinado
